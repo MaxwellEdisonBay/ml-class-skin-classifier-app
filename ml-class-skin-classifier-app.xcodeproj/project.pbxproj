@@ -6,6 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		24C64531254938E9438EEC8E /* libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8230E4059A5A541EE2EAF5E0 /* libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a */; };
+		82DBE424AF7F1DFEC8E7FA99 /* libPods-ml-class-skin-classifier-appTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E065D8F845EAF1A600EC9DAD /* libPods-ml-class-skin-classifier-appTests.a */; };
+		D6E1DD4B2DADDF96006C9627 /* ConfettiSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = D6E1DD4A2DADDF96006C9627 /* ConfettiSwiftUI */; };
+		E3C1836834EB7B773EE50424 /* libPods-ml-class-skin-classifier-app.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FDC4719B7130FA77A46B4023 /* libPods-ml-class-skin-classifier-app.a */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		D6E1DC962DAD76C0006C9627 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,24 +31,50 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18441CC7E701613688857D23 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.debug.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests/Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		1AD31039FE86BADDBB3A3E62 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.release.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests/Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.release.xcconfig"; sourceTree = "<group>"; };
+		1B2C3787407E221C632360EA /* Pods-ml-class-skin-classifier-app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-app.debug.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-app/Pods-ml-class-skin-classifier-app.debug.xcconfig"; sourceTree = "<group>"; };
+		2CD3660E12861863DBC98E55 /* Pods-ml-class-skin-classifier-appTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-appTests.debug.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-appTests/Pods-ml-class-skin-classifier-appTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5352B897B79ADE182B1963A4 /* Pods-ml-class-skin-classifier-appTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-appTests.release.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-appTests/Pods-ml-class-skin-classifier-appTests.release.xcconfig"; sourceTree = "<group>"; };
+		8230E4059A5A541EE2EAF5E0 /* libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC8394F7ADAB3344C430B0D9 /* Pods-ml-class-skin-classifier-app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ml-class-skin-classifier-app.release.xcconfig"; path = "Target Support Files/Pods-ml-class-skin-classifier-app/Pods-ml-class-skin-classifier-app.release.xcconfig"; sourceTree = "<group>"; };
 		D6E1DC852DAD76BF006C9627 /* ml-class-skin-classifier-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ml-class-skin-classifier-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E1DC952DAD76C0006C9627 /* ml-class-skin-classifier-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ml-class-skin-classifier-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E1DC9F2DAD76C0006C9627 /* ml-class-skin-classifier-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ml-class-skin-classifier-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E065D8F845EAF1A600EC9DAD /* libPods-ml-class-skin-classifier-appTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ml-class-skin-classifier-appTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDC4719B7130FA77A46B4023 /* libPods-ml-class-skin-classifier-app.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ml-class-skin-classifier-app.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D6E1DD222DADD921006C9627 /* Exceptions for "ml-class-skin-classifier-app" folder in "ml-class-skin-classifier-app" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D6E1DC842DAD76BF006C9627 /* ml-class-skin-classifier-app */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		D6E1DC872DAD76BF006C9627 /* ml-class-skin-classifier-app */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D6E1DD222DADD921006C9627 /* Exceptions for "ml-class-skin-classifier-app" folder in "ml-class-skin-classifier-app" target */,
+			);
 			path = "ml-class-skin-classifier-app";
 			sourceTree = "<group>";
 		};
 		D6E1DC982DAD76C0006C9627 /* ml-class-skin-classifier-appTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = "ml-class-skin-classifier-appTests";
 			sourceTree = "<group>";
 		};
 		D6E1DCA22DAD76C0006C9627 /* ml-class-skin-classifier-appUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = "ml-class-skin-classifier-appUITests";
 			sourceTree = "<group>";
 		};
@@ -52,6 +85,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6E1DD4B2DADDF96006C9627 /* ConfettiSwiftUI in Frameworks */,
+				E3C1836834EB7B773EE50424 /* libPods-ml-class-skin-classifier-app.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82DBE424AF7F1DFEC8E7FA99 /* libPods-ml-class-skin-classifier-appTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,6 +102,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24C64531254938E9438EEC8E /* libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +116,8 @@
 				D6E1DC982DAD76C0006C9627 /* ml-class-skin-classifier-appTests */,
 				D6E1DCA22DAD76C0006C9627 /* ml-class-skin-classifier-appUITests */,
 				D6E1DC862DAD76BF006C9627 /* Products */,
+				F0777F540130CE903CE7D66E /* Pods */,
+				F102DEA27C7F90457D132AE5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -92,6 +131,29 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		F0777F540130CE903CE7D66E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1B2C3787407E221C632360EA /* Pods-ml-class-skin-classifier-app.debug.xcconfig */,
+				AC8394F7ADAB3344C430B0D9 /* Pods-ml-class-skin-classifier-app.release.xcconfig */,
+				18441CC7E701613688857D23 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.debug.xcconfig */,
+				1AD31039FE86BADDBB3A3E62 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.release.xcconfig */,
+				2CD3660E12861863DBC98E55 /* Pods-ml-class-skin-classifier-appTests.debug.xcconfig */,
+				5352B897B79ADE182B1963A4 /* Pods-ml-class-skin-classifier-appTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F102DEA27C7F90457D132AE5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FDC4719B7130FA77A46B4023 /* libPods-ml-class-skin-classifier-app.a */,
+				8230E4059A5A541EE2EAF5E0 /* libPods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.a */,
+				E065D8F845EAF1A600EC9DAD /* libPods-ml-class-skin-classifier-appTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -99,6 +161,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D6E1DCA92DAD76C0006C9627 /* Build configuration list for PBXNativeTarget "ml-class-skin-classifier-app" */;
 			buildPhases = (
+				EF8DFE952DECA6D7A064463E /* [CP] Check Pods Manifest.lock */,
 				D6E1DC812DAD76BF006C9627 /* Sources */,
 				D6E1DC822DAD76BF006C9627 /* Frameworks */,
 				D6E1DC832DAD76BF006C9627 /* Resources */,
@@ -111,8 +174,6 @@
 				D6E1DC872DAD76BF006C9627 /* ml-class-skin-classifier-app */,
 			);
 			name = "ml-class-skin-classifier-app";
-			packageProductDependencies = (
-			);
 			productName = "ml-class-skin-classifier-app";
 			productReference = D6E1DC852DAD76BF006C9627 /* ml-class-skin-classifier-app.app */;
 			productType = "com.apple.product-type.application";
@@ -121,6 +182,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D6E1DCAC2DAD76C0006C9627 /* Build configuration list for PBXNativeTarget "ml-class-skin-classifier-appTests" */;
 			buildPhases = (
+				F123304AA7C902C2AC0996F5 /* [CP] Check Pods Manifest.lock */,
 				D6E1DC912DAD76C0006C9627 /* Sources */,
 				D6E1DC922DAD76C0006C9627 /* Frameworks */,
 				D6E1DC932DAD76C0006C9627 /* Resources */,
@@ -134,8 +196,6 @@
 				D6E1DC982DAD76C0006C9627 /* ml-class-skin-classifier-appTests */,
 			);
 			name = "ml-class-skin-classifier-appTests";
-			packageProductDependencies = (
-			);
 			productName = "ml-class-skin-classifier-appTests";
 			productReference = D6E1DC952DAD76C0006C9627 /* ml-class-skin-classifier-appTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -144,6 +204,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D6E1DCAF2DAD76C0006C9627 /* Build configuration list for PBXNativeTarget "ml-class-skin-classifier-appUITests" */;
 			buildPhases = (
+				F6249F0363BE347FB6C2BFF0 /* [CP] Check Pods Manifest.lock */,
 				D6E1DC9B2DAD76C0006C9627 /* Sources */,
 				D6E1DC9C2DAD76C0006C9627 /* Frameworks */,
 				D6E1DC9D2DAD76C0006C9627 /* Resources */,
@@ -157,8 +218,6 @@
 				D6E1DCA22DAD76C0006C9627 /* ml-class-skin-classifier-appUITests */,
 			);
 			name = "ml-class-skin-classifier-appUITests";
-			packageProductDependencies = (
-			);
 			productName = "ml-class-skin-classifier-appUITests";
 			productReference = D6E1DC9F2DAD76C0006C9627 /* ml-class-skin-classifier-appUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -195,6 +254,9 @@
 			);
 			mainGroup = D6E1DC7C2DAD76BF006C9627;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D6E1DD232DADDE8C006C9627 /* XCRemoteSwiftPackageReference "ConfettiSwiftUI" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D6E1DC862DAD76BF006C9627 /* Products */;
 			projectDirPath = "";
@@ -230,6 +292,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		EF8DFE952DECA6D7A064463E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ml-class-skin-classifier-app-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F123304AA7C902C2AC0996F5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ml-class-skin-classifier-appTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6249F0363BE347FB6C2BFF0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D6E1DC812DAD76BF006C9627 /* Sources */ = {
@@ -390,6 +521,7 @@
 		};
 		D6E1DCAA2DAD76C0006C9627 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B2C3787407E221C632360EA /* Pods-ml-class-skin-classifier-app.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -398,7 +530,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ml-class-skin-classifier-app/Preview Content\"";
 				DEVELOPMENT_TEAM = 932C7PR6GF;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ml-class-skin-classifier-app/Info.plist";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "We need this permission to access the media library";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need this permission to take pictures";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need this permission to access the media library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -419,6 +556,7 @@
 		};
 		D6E1DCAB2DAD76C0006C9627 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC8394F7ADAB3344C430B0D9 /* Pods-ml-class-skin-classifier-app.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -427,7 +565,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ml-class-skin-classifier-app/Preview Content\"";
 				DEVELOPMENT_TEAM = 932C7PR6GF;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ml-class-skin-classifier-app/Info.plist";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "We need this permission to access the media library";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need this permission to take pictures";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need this permission to access the media library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -448,6 +591,7 @@
 		};
 		D6E1DCAD2DAD76C0006C9627 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2CD3660E12861863DBC98E55 /* Pods-ml-class-skin-classifier-appTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -467,6 +611,7 @@
 		};
 		D6E1DCAE2DAD76C0006C9627 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5352B897B79ADE182B1963A4 /* Pods-ml-class-skin-classifier-appTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -486,6 +631,7 @@
 		};
 		D6E1DCB02DAD76C0006C9627 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18441CC7E701613688857D23 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -503,6 +649,7 @@
 		};
 		D6E1DCB12DAD76C0006C9627 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1AD31039FE86BADDBB3A3E62 /* Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -558,6 +705,24 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D6E1DD232DADDE8C006C9627 /* XCRemoteSwiftPackageReference "ConfettiSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/simibac/ConfettiSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D6E1DD4A2DADDF96006C9627 /* ConfettiSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ConfettiSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D6E1DC7D2DAD76BF006C9627 /* Project object */;
 }

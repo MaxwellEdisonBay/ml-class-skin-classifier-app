@@ -1,0 +1,6 @@
+framework module Pods_ml_class_skin_classifier_app_ml_class_skin_classifier_appUITests {
+  umbrella header "Pods-ml-class-skin-classifier-app-ml-class-skin-classifier-appUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

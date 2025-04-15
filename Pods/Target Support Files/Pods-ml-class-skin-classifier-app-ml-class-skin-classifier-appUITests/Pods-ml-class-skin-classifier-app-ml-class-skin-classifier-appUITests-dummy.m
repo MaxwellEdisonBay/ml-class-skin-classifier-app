@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ml_class_skin_classifier_app_ml_class_skin_classifier_appUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ml_class_skin_classifier_app_ml_class_skin_classifier_appUITests
+@end

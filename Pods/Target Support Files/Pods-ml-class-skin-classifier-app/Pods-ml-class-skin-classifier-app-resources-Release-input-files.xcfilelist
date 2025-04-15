@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ml-class-skin-classifier-app/Pods-ml-class-skin-classifier-app-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/TensorFlowLiteC/TensorFlowLiteC.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/TensorFlowLiteSwift/TensorFlowLite.bundle
